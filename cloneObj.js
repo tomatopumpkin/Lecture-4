@@ -2,7 +2,7 @@
 //Obj Ref,Obj clonning assign(),{...x},JSON
 //
 const obj1 = {
-    person : 'Puchcharapoom',
+    person : 'Wimonsiri',
     Weight : 85
 }
 

@@ -1,6 +1,6 @@
 //libHello.js
 const person= {
-    name : 'Anirach',
+    name : 'wimonsiri',
     weight : 85
 }
 
